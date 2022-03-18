@@ -7,7 +7,7 @@
 // See Lecture 52, part 1
 // var helloSpeaker =
 
-var helloSpeaker = {
+let helloSpeaker = {
   speak : function (name) {
     var speakWord = "Hello";
     console.log(speakWord + " " + name);
